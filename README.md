@@ -14,7 +14,7 @@ Je m'appelle **Régis** et je suis actuellement en troisième et dernière anné
 
 - **Langages** : HTML, CSS, SCSS, JavaScript, PHP, SQL, Java, flutter.
 - **Frameworks** : Bootstrap, Symfony, Laravel, Slim.
-- **CMS** : Wordpress.
+- **CMS** : Wordpress, Directus ( CMS Headless )
 - **Outils** : Git, GitHub, Visual Studio Code, Suite JetBrains, Android Studio, Figma, Docker, Trello.
 
 
